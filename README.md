@@ -13,3 +13,14 @@ Preview the gif below to get a quick demo of github.dev in action.
 
 # Why?
 It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DATA>
+   <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
+   <STARTING_FOLDER>/src/</STARTING_FOLDER>
+   <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <VERSION_CONSTANT>ZIF_ABAPGIT_VERSION=&gt;C_ABAP_VERSION</VERSION_CONSTANT>
+  </DATA>
+ </asx:values>
+</asx:abap>
